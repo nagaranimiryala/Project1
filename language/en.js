@@ -68,7 +68,7 @@ var Translations = {
         },
         "button5": {
             "url": "http://example.com/",
-            "label": "Share",
+            "label": "SHARE1",
             "icon": "share"
         }
     },
